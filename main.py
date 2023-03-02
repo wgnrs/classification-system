@@ -14,15 +14,17 @@ classificacoes = {
                     'refeiçao', 'refeiçoes', 'refrigerante', 'sandu', 'sand', 'serviço de bordo', 'serviços de bordo',
                     'servicio', 'servico de bordo', 'snack', 'suco', 'meal', 'refeição', 'refeições', 'refeicao',
                     'refeicoes', 'almuerzo', 'almorzar', 'petisco', 'champagne', 'drink', 'snak', 'cereal', 'cereais'],
-    'água': ['agua', 'água', 'water'],
-    'internet': ['wifi', 'wifie', 'internet', 'wi-fi', 'wi fi'],
-    'funcionário': ['funcionário', 'funcionario', 'aeromoça', 'aeromoca', 'aeromoço', 'aeromoco', 'comissário',
-                    'comissario', 'comissaria', 'comissária', 'empleado', 'staff', 'pilot', 'piloto', 'comandante'],
     'acomodação': ['abafado', 'lotação', 'superlotado', 'lotado', 'pequeno', 'usb', 'carregador', 'televisão',
                    'monitor', 'monitores', 'entretenimento', 'filmes', 'filme', 'música', 'musica', 'limpeza', 'limpa',
                    'higiene', 'higienizada', 'espaco','espacio', 'espaço', 'seat', 'poltrona', 'poltronas', 'cadeira',
                    'silla', 'carreador', 'asientos', 'asientos', 'assento', 'saneamiento', 'limpios' ,'sanitário',
                    'banheiro', 'toilet', 'toalete', 'bano', 'sujo'],
+    'funcionário': ['funcionário', 'funcionario', 'aeromoça', 'aeromoca', 'aeromoço', 'aeromoco', 'comissário',
+                    'comissario', 'comissaria', 'comissária', 'empleado', 'staff', 'pilot', 'piloto', 'comandante'],
+    'internet': ['wifi', 'wifie', 'internet', 'wi-fi', 'wi fi'],
+    'água': ['agua', 'água', 'water'],
+
+
     'vazio': ['vazio']
 }
 
