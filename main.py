@@ -23,8 +23,6 @@ classificacoes = {
                     'comissario', 'comissaria', 'comissária', 'empleado', 'staff', 'pilot', 'piloto', 'comandante'],
     'internet': ['wifi', 'wifie', 'internet', 'wi-fi', 'wi fi'],
     'água': ['agua', 'água', 'water'],
-
-
     'vazio': ['vazio']
 }
 
